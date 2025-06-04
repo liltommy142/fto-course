@@ -54,7 +54,7 @@
 **Ví dụ:**
 
 * ❌ “Xuống xe không tao bắn chết!”
-* ✅ “Sir, step out of the vehicle slowly, keep your hands where I can see them.”
+* ✅ “Đề nghị anh/chị bước ra khỏi xe từ từ, giơ hai tay ra nơi tôi có thể quan sát.”
 
 ### 2. Với đồng đội
 
