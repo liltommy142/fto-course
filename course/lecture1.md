@@ -16,7 +16,7 @@
 
 | Thuật ngữ        | Ý nghĩa                                         |
 | ---------------- | ----------------------------------------------- |
-| **Unit**         | Cá nhân/tổ đội đang làm nhiệm vụ hoặc nghi phạm |
+| **Unit**         | Cá nhân/tổ đội đang làm nhiệm vụ                |
 | **Traffic stop** | Dừng phương tiện để kiểm tra, xử lý vi phạm     |
 | **Patrol**       | Tuần tra                                        |
 | **Pursuit**      | Truy đuổi nghi phạm                             |
